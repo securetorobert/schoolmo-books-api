@@ -10,7 +10,7 @@
  */
 
 module.exports.sockets = {
-  onlyAllowOrigins: False,
+  onlyAllowOrigins: ['http://41.190.14.229'],
   /***************************************************************************
   *                                                                          *
   * `transports`                                                             *
